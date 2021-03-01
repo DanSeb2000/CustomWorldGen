@@ -1,0 +1,7 @@
+name: CustomWorldGen
+version: @version@
+main: me.danseb.customworldgen.Main
+api-version: 1.16
+load: STARTUP
+authors: [DanSeb2000]
+description: Testing custom world
